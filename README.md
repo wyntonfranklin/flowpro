@@ -1,4 +1,7 @@
 # FlowPro
+
+[![screenshot](./Windows-0078D6.svg)](https://github.com/wyntonfranklin/flowpro)
+
 Welcome to a different way to code. Learn more [here](https://wynton-franklin.gitbook.io/flowpro-docs/)
 
 Visit the [releases](https://github.com/wyntonfranklin/flowpro/releases) page for downloads.
@@ -14,6 +17,9 @@ You can connect to databases and send files via email. You can upload files to F
 
 ![screenshot2](./screenshot2.png)
 
+## Installation
+
+
 ## Features
 
 * Graphical Editing
@@ -28,6 +34,20 @@ You can connect to databases and send files via email. You can upload files to F
 * Export feature
 * Window display
 * Include multiple different scripts
+
+## Installation
+
+### For Windows
+To install head to the release page and download and extract the installation file.
+The application will open once installation is complete.
+
+You can download from the Windows playstore here.
+
+### For Linux
+Coming.
+
+### For Mac
+Coming.
 
 ## Getting Started
 
@@ -50,11 +70,11 @@ or a tab is clicked on.
 * Electron
 * Bootstrap 3
 * Flowy ([https://github.com/alyssaxuu/flowy](https://github.com/alyssaxuu/flowy))
-* And alot of other NPM Packages for special features
+* And a lot of other NPM Packages for special features
 
 ## Special Links
 
 * Documentation - [https://wynton-franklin.gitbook.io/flowpro-docs/](https://wynton-franklin.gitbook.io/flowpro-docs/)
 * Releases - [https://github.com/wyntonfranklin/flowpro/releases](https://github.com/wyntonfranklin/flowpro/releases)
-* Tutorials - Check out the youtube playlist [here](https://www.youtube.com/watch?v=J7ulDQUnM6E&list=PLWdSdbV1ysPxp2usbSOvtXWaLpEPIxtXe&ab_channel=wfTutorials)
+* Tutorials - Check out the Youtube playlist [here](https://www.youtube.com/watch?v=J7ulDQUnM6E&list=PLWdSdbV1ysPxp2usbSOvtXWaLpEPIxtXe&ab_channel=wfTutorials)
 
