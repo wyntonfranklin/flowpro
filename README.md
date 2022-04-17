@@ -14,6 +14,38 @@ You can connect to databases and send files via email. You can upload files to F
 
 ![screenshot2](./screenshot2.png)
 
+## Features
 
+* Graphical Editing
+* Rename blocks
+* Over 50 different function blocks
+* Form Builder
+* Console view
+* Save a block as favorites
+* Run script in a repeating loop
+* Environment Variables
+* Autosave
+* Export feature
+* Window display
+* Include multiple different scripts
 
+## Getting Started
+
+To get started hit the File Menu and choose New FlowPro option give your script a name and get started adding blocks. Its that simple.
+Start playing around with the blocks.
+
+![screenshot3](./moving_blocks.gif)
+
+## Resources / Built With
+
+* Electron
+* Bootstrap 3
+* Flowy ([https://github.com/alyssaxuu/flowy](https://github.com/alyssaxuu/flowy))
+* And alot of other NPM Packages for special features
+
+## Special Links
+
+* Documentation - [https://wynton-franklin.gitbook.io/flowpro-docs/](https://wynton-franklin.gitbook.io/flowpro-docs/)
+* Releases - [https://github.com/wyntonfranklin/flowpro/releases](https://github.com/wyntonfranklin/flowpro/releases)
+* Tutorials - Check out the youtube playlist [here](https://www.youtube.com/watch?v=J7ulDQUnM6E&list=PLWdSdbV1ysPxp2usbSOvtXWaLpEPIxtXe&ab_channel=wfTutorials)
 
