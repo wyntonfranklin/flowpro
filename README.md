@@ -37,10 +37,10 @@ You can connect to databases and send files via email. You can upload files to F
 ## Installation
 
 ### For Windows
-To install head to the release page and download and extract the installation file.
+Download from Windows store [here](https://www.microsoft.com/store/apps/9P350WJPQH84) or 
+head to the release page and download and extract the installation file.
 The application will open once installation is complete.
 
-You can download from the Windows playstore here.
 
 ### For Linux
 Coming.
@@ -55,7 +55,8 @@ sudo apt-get install -y libva-dev
 Once installed head to the releases page and download the app image.
 
 ### For Mac
-Coming.
+Head to the release page [here](https://github.com/wyntonfranklin/flowpro/releases/tag/1.0.0-mac). 
+Select the pkg version. Others will be made available.
 
 ## Getting Started
 
