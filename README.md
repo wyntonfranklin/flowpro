@@ -1,7 +1,7 @@
 # FlowPro
 
-[![screenshot](./Windows-0078D6.svg)](https://github.com/wyntonfranklin/flowpro#for-windows) 
-[![screenshot](./macbadge.svg)](https://github.com/wyntonfranklin/flowpro#for-windows)
+[![screenshot](./Windows-0078D6.svg)](https://www.microsoft.com/store/apps/9P350WJPQH84) 
+[![screenshot](./macbadge.svg)](https://github.com/wyntonfranklin/flowpro/releases/tag/1.0.0-mac)
 
 Welcome to a different way to code. Learn more [here](https://wynton-franklin.gitbook.io/flowpro-docs/)
 
