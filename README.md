@@ -81,6 +81,21 @@ or a tab is clicked on.
 * Flowy ([https://github.com/alyssaxuu/flowy](https://github.com/alyssaxuu/flowy))
 * And a lot of other NPM Packages for special features
 
+## NPM Resources
+
+For your reference. Used for blocks with similar functionality.
+
+* fast-xml-parser
+* ftp
+* json-as-xlsx
+* mssql
+* mysql
+* nodemailer
+* read-excel-file
+* sqlite
+* sqlite3
+* ssh2-sftp-client
+
 ## Special Links
 
 * Documentation - [https://wynton-franklin.gitbook.io/flowpro-docs/](https://wynton-franklin.gitbook.io/flowpro-docs/)
