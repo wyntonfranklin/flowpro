@@ -43,14 +43,7 @@ The application will open once installation is complete.
 
 
 ### For Linux
-Coming.
-
-**Requires Libva to work properly**
-
-```bash
-sudo apt-get update -y
-sudo apt-get install -y libva-dev
-```
+View the release page for different versions.
 
 Once installed head to the releases page and download the app image.
 
