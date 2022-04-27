@@ -63,6 +63,8 @@ Start playing around with the blocks.
 To run a script you can right-click on the canvas and press run. Or you can press the play button.
 To stop the script press the red stop button. As many times as you need to.
 
+Try some of the samples [here](https://github.com/wyntonfranklin/flowpro/tree/main/samples)
+
 ## Building Forms
 To build a script with form elements right click and press build form. Forms are automatically built when a new file is selected
 or a tab is clicked on.
