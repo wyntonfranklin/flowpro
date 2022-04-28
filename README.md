@@ -93,7 +93,7 @@ For your reference. Used for blocks with similar functionality.
 
 ## Special Links
 
-* Documentation - [https://wynton-franklin.gitbook.io/flowpro-docs/](https://wynton-franklin.gitbook.io/flowpro-docs/)
+* Documentation - [https://flowprodocs.wftutorials.com/](https://flowprodocs.wftutorials.com/)
 * Releases - [https://github.com/wyntonfranklin/flowpro/releases](https://github.com/wyntonfranklin/flowpro/releases)
 * Tutorials - Check out the Youtube playlist [here](https://www.youtube.com/watch?v=J7ulDQUnM6E&list=PLWdSdbV1ysPxp2usbSOvtXWaLpEPIxtXe&ab_channel=wfTutorials)
 
