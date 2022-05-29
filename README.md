@@ -19,6 +19,12 @@ You can connect to databases and send files via email. You can upload files to F
 ![screenshot2](./flowpro_mac.png)
 
 
+## Multiple Ways to flow
+
+You can use the desktop editor called Flowpro Editor or you can use the  CLI tool available 
+on npm (flowpro-cli) and finally the Web designer (coming soon)
+
+
 ## Features
 
 * Graphical Editing
